@@ -4,3 +4,6 @@ Run Flask app:
 
 Initialize the Database File:
 - `flask --app flaskr init-db`
+
+Run tests:
+- `pytest`
