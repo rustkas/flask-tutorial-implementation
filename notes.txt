@@ -1,0 +1,6 @@
+Run Flask app: 
+- `flask --app hello run`
+- `flask --app flaskr run --debug`
+
+Initialize the Database File:
+- `flask --app flaskr init-db`
